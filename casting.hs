@@ -9,7 +9,7 @@ c = True
 d :: [Int]
 d = [1,2,3]
 
-main :: IO();
+main :: IO()
 main = do
     putStrLn "Outputs:"
     print $ show a
